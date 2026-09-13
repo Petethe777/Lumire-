@@ -1,0 +1,6 @@
+{
+  "name": "Lumière Studio",
+  "description": "Refined modern tailoring and archival textiles crafted for deliberate timelessness. A luxury fashion boutique offering organic linen, peace silk, and curated summer capsules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
